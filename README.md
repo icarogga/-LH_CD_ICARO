@@ -6,7 +6,7 @@ Este projeto contém a análise exploratória de dados (EDA) e a modelagem predi
 
 - `desafio_indicium_imdb_analysis.ipynb`: Jupyter Notebook com a análise exploratória de dados, visualizações e modelagem preditiva.
 - `requirements.txt`: Lista de pacotes Python necessários para executar o projeto.
-- `imdb_rating_predictor.pkl`: Modelo treinado para prever a nota do IMDb.
+- `imdb_rating_model.pkl`: Modelo treinado para prever a nota do IMDb.
 
 ## Como Executar
 
@@ -34,11 +34,12 @@ Este projeto contém a análise exploratória de dados (EDA) e a modelagem predi
 
 ## Modelo
 
-O modelo foi treinado utilizando Regressão Linear e foi salvo no arquivo `imdb_rating_predictor.pkl`.
+O modelo foi treinado utilizando Regressão Linear e foi salvo no arquivo `imdb_rating_model.pkl`.
 
 ### Avaliação do Modelo
 
-- **RMSE**: 0.21
+- **MSE**: 0.038890794996256785
+- **MAE**: 0.1564089316780905
 
 ## Contato
 
