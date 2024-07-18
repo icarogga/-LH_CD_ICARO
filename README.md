@@ -42,4 +42,4 @@ O modelo foi treinado utilizando Regressão Linear e foi salvo no arquivo `imdb_
 
 ## Contato
 
-Para mais informações, entre em contato com [Ícaro Coêlho] (icarogga@gmail.com).
+Para mais informações, entre em contato com Ícaro Coêlho (icarogga@gmail.com).
